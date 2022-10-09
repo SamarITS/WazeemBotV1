@@ -25,7 +25,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖 sᴜᴘᴘᴏʀᴛ', url='https://t.me/WazeemSupport')
+                InlineKeyboardButton('🤖 sᴜᴘᴘᴏʀᴛ', url='https://t.me/SAM_DUB_LEZHa')
             ],
             [
                 InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -58,7 +58,7 @@ async def start(client, message):
             
         START_TXT = f"""
 <b>{greet} {message.from_user.mention}  ʙᴜᴅᴅʏ
-ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Adv_AutoFilBot><b>Wᴀᴢᴇᴇᴍ</b></a>  ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 😈</b>
+ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Samandes_bot><b>Samandes_bot</b></a>  ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 😈</b>
 """
         buttons = [[
             InlineKeyboardButton('♨️ ᴄʟɪᴄᴋ ʜᴇʀᴇ ♨️', callback_data='start')
@@ -114,7 +114,7 @@ async def start(client, message):
             greet="ɢᴏᴏᴅ ɴɪɢʜᴛ"
             START_TXT = f"""
 <b>{greet} {message.from_user.mention}  ʙᴜᴅᴅʏ
-ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Adv_AutoFilBot><b>Wᴀᴢᴇᴇᴍ</b></a>  ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 😈</b>
+ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Samandes_bot><b>Samandes_bot</b></a>  ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 😈</b>
 """
         buttons = [[
             InlineKeyboardButton('♨️ ᴄʟɪᴄᴋ ʜᴇʀᴇ ♨️', callback_data='start')
