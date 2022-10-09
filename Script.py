@@ -1,9 +1,8 @@
 class script(object):
     START_TXT = """<b><i>ʜᴇʏ 👋  {}  ʙᴜᴅᴅʏ 💝
-ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Adv_AutoFilBot><b> Wᴀᴢᴇᴇᴍ </b></a>  ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💗</b></i>"""
+ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Samandes_bot><b> Wᴀᴢᴇᴇᴍ </b></a>  ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💗</b></i>"""
     HELP_TXT = """<b>🚩 ʜᴇʟʟᴏ {} ʙᴜᴅᴅʏ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴏᴅᴜʟᴇ 💝</b>"""
-    ABOUT_TXT = """<b><i>• ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Adv_AutoFilBot><b>Wᴀᴢᴇᴇᴍ</b></a>\n
-• ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/humen_tg><b>Hᴜᴍᴇɴ ⛔</b></a>\n
+    ABOUT_TXT = """<b><i>• ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Samandes_bot><b>Samandes_bot</b></a>\n
 • ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 • ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 • ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
@@ -13,7 +12,7 @@ class script(object):
    
 
 <b> Open Source:</b>
-- <a href=https://t.me/WazeemSupport/320>Tape Here</a>"""
+- <a href=https://github.com/SamarITS/WazeemBotV1>Tape Here</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
