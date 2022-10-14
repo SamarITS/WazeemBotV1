@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b><i>ʜᴇʏ 👋  {}  ʙᴜᴅᴅʏ 💝
-ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Samandes_bot><b> Wᴀᴢᴇᴇᴍ </b></a>  ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💗</b></i>"""
+ᴍʏ ɴᴀᴍᴇ ɪꜱ  <a href=https://t.me/Samandes_bot><b>Samandes_bot</b></a>  ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ꜱᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ 💗</b></i>"""
     HELP_TXT = """<b>🚩 ʜᴇʟʟᴏ {} ʙᴜᴅᴅʏ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴏᴅᴜʟᴇ 💝</b>"""
     ABOUT_TXT = """<b><i>• ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Samandes_bot><b>Samandes_bot</b></a>\n
 • ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
