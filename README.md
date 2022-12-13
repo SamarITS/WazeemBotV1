@@ -94,8 +94,8 @@ python3 bot.py
  - Thanks To All Everyone In This Journey
  
  ## Devoleper 
- Hᴜᴍᴇɴ⛔
- - [Connect With Me](https://t.me/humen_tg)
+ SAMAR⛔
+ - [Connect With Me](https://t.me/FALL_IN_MEERA_tg)
 
 
 ### Note
